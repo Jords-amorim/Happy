@@ -1,0 +1,24 @@
+/* Corpo da página - Fundo e características gerais */
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  /* Fundo */
+  height: 100vh;
+  /* Color Font */
+  color: white;
+}
+
+:root {
+  font-size: 62, 5%;
+}
+
+/* Declarações */
+body,
+input,
+button,
+textarea {
+  /* Font */
+  font: 400 1.8rem/1 "Nunito", sans-serif;
+}
